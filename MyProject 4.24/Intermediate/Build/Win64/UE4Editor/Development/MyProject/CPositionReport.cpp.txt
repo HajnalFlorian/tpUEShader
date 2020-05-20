@@ -1,0 +1,3 @@
+D:\TpUE\MyProject 4.24\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+D:\TpUE\MyProject 4.24\Source\MyProject\Public\CPositionReport.h
+D:\TpUE\MyProject 4.24\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\CPositionReport.generated.h

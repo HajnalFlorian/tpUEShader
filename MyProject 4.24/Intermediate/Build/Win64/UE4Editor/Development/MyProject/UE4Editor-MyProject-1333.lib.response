@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyProject-1333.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\TpUE\MyProject 4.24\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\TpUE\MyProject 4.24\Intermediate\Build\Win64\UE4Editor\Development\MyProject\cPlayerpawn.cpp.obj"
+"D:\TpUE\MyProject 4.24\Intermediate\Build\Win64\UE4Editor\Development\MyProject\CPositionReport.cpp.obj"
+"D:\TpUE\MyProject 4.24\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProject.cpp.obj"
+"D:\TpUE\MyProject 4.24\Intermediate\Build\Win64\UE4Editor\Development\MyProject\cPlayerpawn.gen.cpp.obj"
+"D:\TpUE\MyProject 4.24\Intermediate\Build\Win64\UE4Editor\Development\MyProject\CPositionReport.gen.cpp.obj"
+"D:\TpUE\MyProject 4.24\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProject.init.gen.cpp.obj"
+"D:\TpUE\MyProject 4.24\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Default.rc2.res"
+/OUT:"D:\TpUE\MyProject 4.24\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-1333.lib"
+/INCLUDE:IMPLEMENT_MODULE_MyProject

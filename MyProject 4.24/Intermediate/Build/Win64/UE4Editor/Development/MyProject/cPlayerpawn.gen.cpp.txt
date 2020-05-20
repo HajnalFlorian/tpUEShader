@@ -1,0 +1,7 @@
+D:\TpUE\MyProject 4.24\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+D:\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\TpUE\MyProject 4.24\Source\MyProject/Public/cPlayerpawn.h
+D:\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/DefaultPawn.h
+D:\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DefaultPawn.generated.h
+d:\tpue\myproject 4.24\intermediate\build\win64\ue4editor\inc\myproject\cPlayerpawn.generated.h
